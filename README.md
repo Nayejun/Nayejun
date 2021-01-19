@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; UI/UX Design | Adobe XD | Figma  
-- 🌐 &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
-- 🛢 &nbsp; UI Dev/Web Dev | Html | CSS | JavaScript
-- 🔧 &nbsp; C | Java | Kotlin
+- :art: &nbsp; UI/UX Design | Adobe XD | Figma  
+- :art: &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
+- 💻 &nbsp; UI Dev/Web Dev | Html | CSS | JavaScript
+- 💻 &nbsp; C | Java | Kotlin
 
 
 <h3> 🤝🏻 Connect with Me </h3>
