@@ -5,7 +5,7 @@
 - :art: &nbsp; UI/UX Designer
 - :art: &nbsp; Web Designer
 - 💻 &nbsp; UI Developer
-- 💻 &nbsp; Web publisher
+- 💻 &nbsp; Web Publisher
 - ⭐️ &nbsp; UI/UX, Web Design은 'notepolio'에 업로드
 - ⭐️ &nbsp; 꿈만 17년 째 찾는 중
 - ⭐️ &nbsp; 우산동 축구왕
@@ -15,7 +15,7 @@
 
 - :art: &nbsp; UI/UX Design | Adobe XD | Figma  
 - :art: &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
-- 💻 &nbsp; UI Dev/Web Dev | Html | CSS | JavaScript
+- 💻 &nbsp; UI Dev/Web Publishing | Html | CSS | JavaScript
 - 💻 &nbsp; C | Java | Kotlin
 
 
