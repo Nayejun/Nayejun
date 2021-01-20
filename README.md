@@ -8,7 +8,7 @@
 - 💻 &nbsp; Web publisher
 - ⭐️ &nbsp; UI/UX, Web Design은 'notepolio'에 업로드
 - ⭐️ &nbsp; 꿈만 17년 째 찾는 중
-- ⭐️ &nbsp; 화정동 축구왕
+- ⭐️ &nbsp; 우산동 축구왕
 
 
 <h3>🛠 Tech Stack</h3>
