@@ -16,7 +16,7 @@
 - :art: &nbsp; UI/UX Design | Adobe XD | Figma  
 - :art: &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
 - 💻 &nbsp; UI Dev / Web Publishing | Html | Css | JavaScript
-- 💻 &nbsp; C | Java | Kotlin | Html | Css | JavaScript
+- 💻 &nbsp; C | JAVA | KOTLIN | HTML | CSS | JavaScript
 
 
 <h3> 🤝🏻 Connect with Me </h3>
