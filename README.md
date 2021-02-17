@@ -7,7 +7,7 @@
 - 💻 &nbsp; UI Developer
 - 💻 &nbsp; Web Publisher
 - ⭐️ &nbsp; UI/UX, Web Design은 'notepolio'에 업로드
-- ⭐️ &nbsp; 꿈만 18년 째 찾는 중
+- ⭐️ &nbsp; 꿈만 1n년 째 찾는 중
 - ⭐️ &nbsp; 우산동 축구왕
 
 
