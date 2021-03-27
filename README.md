@@ -7,8 +7,7 @@
 - 💻 &nbsp; UI Developer
 - 💻 &nbsp; Web Publisher
 - ⭐️ &nbsp; UI/UX, Web Design은 'notepolio'에 업로드
-- ⭐️ &nbsp; 꿈만 1n년 째 찾는 중
-- ⭐️ &nbsp; 사진, 축구
+- ⭐️ &nbsp; 카메라, 축구 좋아합니다
 
 
 <h3>🛠 Tech Stack</h3>
