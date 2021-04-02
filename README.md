@@ -6,6 +6,7 @@
 - :art: &nbsp; Web Designer
 - 💻 &nbsp; UI Developer
 - 💻 &nbsp; Web Publisher
+- 💻 &nbsp; Front-end Developer
 - ⭐️ &nbsp; UI/UX, Web Design은 'notepolio'에 업로드
 - ⭐️ &nbsp; 카메라, 축구 좋아합니다
 
