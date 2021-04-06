@@ -1,10 +1,7 @@
 <h3> 👨🏻‍💻  About Me </h3>
 
 - 🏫 &nbsp; 광주소프트웨어마이스터고등학교
-- 🏫 &nbsp; Gwangju Software Meister Highschool
-- :art: &nbsp; UI/UX Designer
 - :art: &nbsp; Web Designer
-- 💻 &nbsp; UI Developer
 - 💻 &nbsp; Web Publisher
 - 💻 &nbsp; Front-end Developer
 - ⭐️ &nbsp; UI/UX, Web Design은 'notepolio'에 업로드
@@ -15,9 +12,8 @@
 
 - :art: &nbsp; UI/UX Design | Adobe XD | Figma  
 - :art: &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
-- 💻 &nbsp; UI Dev / Web Publishing | Html | Css | JavaScript
 - 💻 &nbsp; Front-end | Vue | Vuex
-- 💻 &nbsp; C | JAVA | KOTLIN | HTML | CSS | JavaScript | Vue
+- 💻 &nbsp; HTML | CSS | JavaScript | Vue
 
 
 <h3> 🤝🏻  Connect with Me </h3>
