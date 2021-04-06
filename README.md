@@ -16,7 +16,7 @@
 - :art: &nbsp; UI/UX Design | Adobe XD | Figma  
 - :art: &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
 - 💻 &nbsp; UI Dev / Web Publishing | Html | Css | JavaScript
-- 💻 &nbsp; Front-end | Vue
+- 💻 &nbsp; Front-end | Vue | Vuex
 - 💻 &nbsp; C | JAVA | KOTLIN | HTML | CSS | JavaScript | Vue
 
 
