@@ -12,8 +12,8 @@
 
 - :art: &nbsp; UI/UX Design | Adobe XD | Figma  
 - :art: &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
-- 💻 &nbsp; Front-end | Vue | Vuex
-- 💻 &nbsp; HTML | CSS | JavaScript | Vue
+- 💻 &nbsp; Front-end | Vue | Vuex | React
+- 💻 &nbsp; HTML | CSS | JavaScript | Vue | Vuex | React
 
 
 <h3> 🤝🏻  Connect with Me </h3>
