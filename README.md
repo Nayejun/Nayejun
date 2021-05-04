@@ -12,7 +12,7 @@
 
 - :art: &nbsp; UI/UX Design | Adobe XD | Figma  
 - :art: &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
-- 💻 &nbsp; Front-end | Vue | Vuex | React
+- 💻 &nbsp; Front-end | Vue | Vuex | Vuetify
 
 
 
