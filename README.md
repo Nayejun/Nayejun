@@ -10,9 +10,9 @@
 
 <h3>🛠  Tech Stack</h3>
 
-- :art: &nbsp; UI/UX Design | Adobe XD | Figma  
-- :art: &nbsp; Web Design | Adobe PS | Adobe IL | Figma 
-- 💻 &nbsp; Front-end | Vue | Vuex | Vuetify
+- :art: &nbsp; [UI/UX Design] Adobe XD | Figma  
+- :art: &nbsp; [Web Design] Adobe PS | Adobe IL | Figma 
+- 💻 &nbsp; [Front-end] Vue | Vuex | Vuetify
 
 
 
