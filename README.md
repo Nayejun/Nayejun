@@ -10,7 +10,7 @@
 
 - :art: &nbsp; Web Design - Adobe PS | Figma
 - 💻 &nbsp; Front-end - Vue | Vuetify | Tailwind
-<p><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="10" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+<p><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="50" src="https://vuejs.org/images/logo.png" alt="Vue logo">
 
 
 <h3> 🤝🏻  Connect with Me </h3>
