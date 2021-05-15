@@ -8,8 +8,8 @@
 
 <h3>🛠  Tech Stack</h3>
 
-- :art: &nbsp; [Web Design] - Adobe PS | Adobe IL | Figma 
-- 💻 &nbsp; [Front-end] - Vue | Vuex | Vuetify
+- :art: &nbsp; [Web Design] - #31A8FF | #FF9A00 | #F24E1E 
+- 💻 &nbsp; [Front-end] - #4FC08D | #1867C0
 
 
 
