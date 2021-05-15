@@ -2,15 +2,12 @@
 
 - 🏫 &nbsp; 광주소프트웨어마이스터고등학교
 - :art: &nbsp; Web Designer
-- 💻 &nbsp; Web Publisher
 - 💻 &nbsp; Front-end Developer
-- ⭐️ &nbsp; UI/UX, Web Design은 'notepolio'에 업로드
 - ⭐️ &nbsp; 카메라, 축구 좋아합니다
 
 
 <h3>🛠  Tech Stack</h3>
 
-- :art: &nbsp; [UI/UX Design] - Adobe XD | Figma  
 - :art: &nbsp; [Web Design] - Adobe PS | Adobe IL | Figma 
 - 💻 &nbsp; [Front-end] - Vue | Vuex | Vuetify
 
