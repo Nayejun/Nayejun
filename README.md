@@ -9,8 +9,8 @@
 <h3>🛠  Tech Stack</h3>
 
 - :art: &nbsp; Web Design - Adobe PS | Figma
-- 💻 &nbsp; Front-end - Vue | Vuetify | Tailwind
-<p><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="35" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+- 💻 &nbsp; Front-end - <p><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="35" src="https://vuejs.org/images/logo.png" alt="Vue logo">
+
 
 
 <h3> 🤝🏻  Connect with Me </h3>
