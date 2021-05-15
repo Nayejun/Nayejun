@@ -1,15 +1,15 @@
 
 <h3> 👨🏻‍💻  About Me </h3>
 
-- 🏫 &nbsp; 광주소프트웨어마이스터고등학교
-- 💻 &nbsp; Front-end Developer
-- ⭐️ &nbsp; 카메라, 축구 좋아합니다
+- 🏫 &nbsp; **광주소프트웨어마이스터고등학교
+- 💻 &nbsp; **Front-end Developer
+- ⭐️ &nbsp; **카메라, 축구 좋아합니다
 
 
 <h3>🛠  Tech Stack</h3>
 
-- :art: &nbsp; [Web Design] - Adobe PS | Figma
-- 💻 &nbsp; [Front-end] - Vue | Vuetify | Tailwind
+- :art: &nbsp; **Web Design - Adobe PS | Figma
+- 💻 &nbsp; **Front-end - Vue | Vuetify | Tailwind
 
 
 
