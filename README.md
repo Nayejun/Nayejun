@@ -1,8 +1,8 @@
 
 <h3> 👨🏻‍💻  About Me </h3>
 
-- 🏫 &nbsp; **광주소프트웨어마이스터고등학교
-- 💻 &nbsp; **Front-end Developer
+- 🏫 &nbsp; ### 광주소프트웨어마이스터고등학교
+- 💻 &nbsp; ### Front-end Developer
 - ⭐️ &nbsp; **카메라, 축구 좋아합니다
 
 
