@@ -2,7 +2,7 @@
 
 📌 **about me**
 
- * **Position** : _Frontend, System developer(LINUX) .. etc_
+ * **Position** : _Frontend, System developer .. etc_
  * **Languages** : _JavaScript, Kotlin .. etc_
  * **Frameworks** : _Vue, Nuxt .. etc_
  * **Style** : _Vuetify, Tailwind, Sass .. etc_
