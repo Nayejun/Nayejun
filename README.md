@@ -9,4 +9,4 @@
  * **Design** : _Figma, Adobe PS .. etc_
  * **Contact me** : _[Instagram](https://www.instagram.com/rhnrmrme/), <dev.yejun@gmail.com>_
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayejun&hide=html,css layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayejun&hide=html,css&layout=compact)
