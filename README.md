@@ -4,8 +4,8 @@
 
  * **Position** : _Frontend_
  * **Languages** : _JavaScript, Typescript .. etc_
- * **Frameworks** : _Vue, React, Nuxt .. etc_
- * **Style** : _Vuetify, Tailwind, Styled components, Sass .. etc_
+ * **Frameworks** : _Vue, React, Next .. etc_
+ * **Style** : _Vuetify, Tailwind, Styled components, Emotion, Sass .. etc_
  * **Design** : _Figma, Adobe PS .. etc_
  * **Contact me** : _[Instagram](https://www.instagram.com/rhnrmrme/), <nayejun.me@gmail.com>_
  * **Portfolio** : _[Notion](https://www.notion.so/Na-YeJun-c09faf30815a44bfa8a3869e2b51d42c)_   
