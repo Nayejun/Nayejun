@@ -4,7 +4,7 @@
 
  * **Position** : _Frontend_
  * **Languages** : _JavaScript, Typescript .. etc_
- * **Frameworks** : _Vue, React, Next .. etc_
+ * **Frameworks** : _React, Vue, Next .. etc_
  * **Style** : _Vuetify, Tailwind, Styled-components, Emotion, Sass .. etc_
  * **Design** : _Figma, Adobe PS .. etc_
  * **Contact me** :  _<nayejun.me@gmail.com>_
