@@ -2,10 +2,11 @@
 
 📌 **about me**
 
- * **Position** : _Frontend_
- * **Languages** : _JavaScript, Typescript .. etc_
- * **Frameworks** : _React, Vue, Next .. etc_
- * **Style** : _Vuetify, Tailwind, Styled-components, Emotion, Sass .. etc_
- * **Design** : _Figma, Adobe PS .. etc_
- * **Contact me** :  _<nayejun.me@gmail.com>_
- * **Portfolio** : _[Notion](https://www.notion.so/Na-YeJun-c09faf30815a44bfa8a3869e2b51d42c)_   
+ * **Position** : Frontend
+ * **Languages** : Javascript, Typescript
+ * **Frameworks** : React, Vue, Next
+ * **State Management** : SWR
+ * **Style** : styled-components, Emotion, Vuetify, Tailwind, SCSS
+ * **Design** : Figma, Adobe Photoshop
+ * **Contact me** :  <nayejun.me@gmail.com>
+ * **Portfolio** : [Notion](https://www.notion.so/Na-YeJun-c09faf30815a44bfa8a3869e2b51d42c)
