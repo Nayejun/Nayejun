@@ -1,12 +1,4 @@
-## Frontend Developer
+<h3>나예준입니다.</h3>
 
-📌 **about me**
-
- * **Position** : Frontend
- * **Languages** : Javascript, Typescript
- * **Frameworks** : React, Vue, Next
- * **State Management** : SWR, Jotai
- * **Style** : styled-components, Emotion, Vuetify, Tailwind, SCSS
- * **Design** : Figma, Adobe Photoshop
- * **Contact me** :  <nayejun.me@gmail.com>
- * **Portfolio** : www.nayejun.me
+서비스의 UI/UX에 높은 가치를 두며,<br/>
+눈이 즐거워지는 화려한 페이지를 너무나 좋아합니다.
