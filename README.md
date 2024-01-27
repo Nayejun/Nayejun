@@ -4,5 +4,5 @@
 - Service Development Team / Frontend Developer
 
 **WemeetMobility**
-- 2023.1 ~ 2023.5
+- 2023.1 ~ 2023.4
 - Platform Team / Frontend Developer
